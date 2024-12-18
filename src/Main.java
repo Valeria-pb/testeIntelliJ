@@ -8,6 +8,8 @@ public class Main {
         // Para conseguir tive que fazer o COMMIT and PUSH,
         // depois aparece um caixa de msg para colocar o caminho da URL do repositório
 
+        //Na segunda tentativa também apareceu primeiro uma mensagem de erro e depois consegui fazer o Push
+
 
         }
     }
