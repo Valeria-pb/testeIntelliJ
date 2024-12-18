@@ -10,6 +10,8 @@ public class Main {
 
         //Na segunda tentativa também apareceu primeiro uma mensagem de erro e depois consegui fazer o Push
 
+        // pode fazer os comandos Git pelo terminal do IntelliJ
+
 
         }
     }
