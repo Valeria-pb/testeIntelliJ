@@ -44,7 +44,7 @@ public class Main {
         boolean comparacao = (a!=b);
         System.out.println("A e B são diferentes? : " +comparacao);
         boolean comparacao2 = (a==b || a>10) && ( multiplicacao==10);
-        System.out.println("Teste "+comparacao2);
+        System.out.println("Tested "+comparacao2);
 
 
     }
